@@ -14,15 +14,13 @@ This project simulates an RF (Radio Frequency) module using Proteus, a simulatio
 2. Basic knowledge of Proteus and circuit simulation.
 
 ## Usage
-1. Open Proteus and load the project file: RF_Module_Simulation.pdsprj.
+1. Open Proteus and load the project file:Noiselesshorn.
 2. The project includes two sub-circuits: Transmitter and Receiver.
 3. Simulate the circuits individually or together to observe wireless communication.
 4. Adjust circuit parameters as needed for your specific application.
 
 ## Files
-- RF_Module_Simulation.pdsprj: Proteus project file containing both transmitter and receiver circuits.
-- Transmitter_Circuit.pdsprj: Proteus project file for the transmitter circuit.
-- Receiver_Circuit.pdsprj: Proteus project file for the receiver circuit.
+- Noiselesshorn: Proteus project file containing both transmitter and receiver circuits.
 
 ## Circuit Details
 ### Transmitter Circuit
