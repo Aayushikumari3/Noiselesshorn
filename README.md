@@ -20,7 +20,7 @@ This project simulates an RF (Radio Frequency) module using Proteus, a simulatio
 4. Adjust circuit parameters as needed for your specific application.
 
 ## Files
-- Noiselesshorn: Proteus project file containing both transmitter and receiver circuits.
+- RF transmitter receiver.pdsprj: Proteus project file containing both transmitter and receiver circuits.
 
 ## Circuit Details
 ### Transmitter Circuit
